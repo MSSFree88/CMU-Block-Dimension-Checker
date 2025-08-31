@@ -24,7 +24,14 @@ Supports both **CLI** and **GUI** (Tkinter) modes with smart detection of the be
 
 ---
 
-## 🚀 Usage
+## 📦 Requirements
+- Python **3.8+**  
+- **Tkinter** (included with most Python installations)  
+- **PyInstaller** (only if building executables)
+
+---
+
+## 🚀 Usage (Source)
 
 ### Run in CLI mode
 ```bash
@@ -46,10 +53,15 @@ Enter a length: 6'4"
 
 ---
 
-## 📦 Requirements
-- Python **3.8+**  
-- **Tkinter** (included with most Python installations)  
-- **PyInstaller** (only if building executables)
+## 📥 Downloads (Executables)
+If you just want to run it on Windows, download the .exe files from the `dist` folder
+
+**Run the executable**
+- **GUI:** Double-click Block Dimensions.exe
+- **CLI:** Open Terminal in the folder and run:
+```bash
+"Block Dimensions CLI.exe"
+```
 
 ---
 
